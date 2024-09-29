@@ -1,0 +1,9 @@
+# Directory
+**.idea**
+**__pycache__**
+**venv**
+/Result
+/Thermal
+/yt
+# Files
+*.log
